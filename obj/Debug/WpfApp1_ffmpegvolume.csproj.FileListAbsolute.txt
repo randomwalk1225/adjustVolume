@@ -1,0 +1,30 @@
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.csprojAssemblyReference.cache
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\MainWindow.g.cs
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\App.g.cs
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume_MarkupCompile.cache
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume_MarkupCompile.lref
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\bin\Debug\WpfApp1_ffmpegvolume.exe.config
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\bin\Debug\WpfApp1_ffmpegvolume.exe
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\bin\Debug\WpfApp1_ffmpegvolume.pdb
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\MainWindow.baml
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.g.resources
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.Properties.Resources.resources
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.csproj.GenerateResource.cache
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.csproj.CoreCompileInputs.cache
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.exe
+C:\Users\rando2410\source\repos\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.pdb
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\bin\Debug\WpfApp1_ffmpegvolume.exe.config
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\bin\Debug\WpfApp1_ffmpegvolume.exe
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\bin\Debug\WpfApp1_ffmpegvolume.pdb
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.csprojAssemblyReference.cache
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\MainWindow.g.cs
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\App.g.cs
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume_MarkupCompile.cache
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume_MarkupCompile.lref
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\MainWindow.baml
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.g.resources
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.Properties.Resources.resources
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.csproj.GenerateResource.cache
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.csproj.CoreCompileInputs.cache
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.exe
+D:\바탕화면_어플리케이션\카카오톡 받은 파일\WpfApp1_ffmpegvolume\obj\Debug\WpfApp1_ffmpegvolume.pdb
